@@ -1,11 +1,12 @@
-This Image Gallery is Created Using Create-React-App and using the Help Of Pixway Api.
+##This Image Gallery is Created Using Create-React-App and using the Help Of Pixway Api.
 
 
 
-## Available Scripts
-## i am removing my pixway API_KEY
+## How To Run ?
+## I'am removing my pixway API_KEY
 ## Go to Pixway.com ang Generate Your API_KEY
 ##and to run this App Need to replace YOUR API_KEY from Pixwat
+##then npm-install
 In the project directory, you can run:
 
 ### `yarn start`
